@@ -1,5 +1,5 @@
 {
-  "name": "ts-gear",
+  "name": "@vue3-oop/ts-gear",
   "version": "4.11.8",
   "description": "swagger to typescript with mock data",
   "main": "lib/index.js",
