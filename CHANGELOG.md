@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.12.0](https://github.com/superwf/ts-gear/compare/v4.11.10...v4.12.0) (2024-07-01)
+
+
+### Features
+
+* support simpleoption ([04c18f7](https://github.com/superwf/ts-gear/commit/04c18f732c02839caabb5e24f0642b295fc10472))
+
 ### [4.11.10](https://github.com/superwf/ts-gear/compare/v4.11.9...v4.11.10) (2024-07-01)
 
 ### 4.11.9 (2024-07-01)
